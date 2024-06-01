@@ -1,7 +1,7 @@
 
    
 ## Datasets
-   The datasets I wil luse to answer the question come from SourceStack.
+   The datasets I will use to answer the question come from SourceStack.
    I queried the API on June the 9th 2023 and April the 2nd 2024, getting 50_000 records- sample on each day, resulting in a dataset with 100_000 records.
    The offers are mostly engineering jobs.
    
