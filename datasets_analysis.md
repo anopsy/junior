@@ -64,5 +64,14 @@
    <br>The top 20 companies posted in total 9502 job offers - 9,5% of the total job offers.
 
    ![image](https://github.com/anopsy/sourcestack/assets/74981211/a7e32a3f-3fde-4466-94ad-b2476ca58068)
+
    
+   Every Job Offers goes alongside with a certain number of tags, ranging from 0 to 150 tags.
+   The most popular tags being:
+
+   ![download](https://github.com/anopsy/sourcestack/assets/74981211/10a34450-d94c-4f22-8fcd-241b6f756fab)
+
+   Last but not least are the job names:
+
+   ![download](https://github.com/anopsy/sourcestack/assets/74981211/c3221262-c283-4ad8-be54-b19ad07c77f9)
 
